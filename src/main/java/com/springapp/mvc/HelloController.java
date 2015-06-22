@@ -12,6 +12,8 @@ public class HelloController {
 	public String printWelcome(ModelMap model) {
 		model.addAttribute("message", "Hello world!");
 		//add first
+		//add second
 		return "hello";
+		///
 	}
 }
