@@ -8,5 +8,8 @@ public class Test77 {
     ///fdsfdsfdsfds
     //asdfsad
     //sadasd
+    //kjgkjhkjhjkhkjhkjhkjhkjhkjhkjhkjuh
+    //lkjlkjlkjlkjkllklkj
+    ///....бьлдбютьлбюьтюбьтюбьюбьбюь
 
 }
