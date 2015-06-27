@@ -13,8 +13,12 @@ public class HelloController {
 		model.addAttribute("message", "Hello world!");
 		//add first
 		//add second
+		//kjhjkhjkh
+		//lhjkhjkh
 		return "hello";
 		///jjkljkl
 		///
+		///addd cheto
+		//adddd cheto2
 	}
 }
